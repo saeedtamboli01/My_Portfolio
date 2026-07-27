@@ -64,4 +64,4 @@ Open `http://localhost:8080` in your web browser.
 - **Secondary Email**: [officialsaeed01@gmail.com](mailto:officialsaeed01@gmail.com)
 - **Phone / WhatsApp**: +91 9503795786
 - **GitHub**: [github.com/saeedtamboli01](https://github.com/saeedtamboli01)
-- **Location**: Rahata, Maharashtra, India
+- **Location**:  Maharashtra, India
