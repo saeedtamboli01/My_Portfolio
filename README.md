@@ -60,8 +60,5 @@ Open `http://localhost:8080` in your web browser.
 
 ## 📬 Contact & Connect
 
-- **Primary Email**: [saeedtamboli278@gmail.com](mailto:saeedtamboli278@gmail.com)
-- **Secondary Email**: [officialsaeed01@gmail.com](mailto:officialsaeed01@gmail.com)
-- **Phone / WhatsApp**: +91 9503795786
-- **GitHub**: [github.com/saeedtamboli01](https://github.com/saeedtamboli01)
+- **Primary Email**: [tambolisaeed30@gmail.com](mailto:tambolisaeed30@gmail.com)
 - **Location**:  Maharashtra, India
